@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotGoFish</string>
+    <string name="press_me">Press Me</string>
+    <string name="hello_message">Hello CS {0} students!</string>
+</resources>
